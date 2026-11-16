@@ -164,6 +164,4 @@ else:
         if number <= limit and not marked[i]:
             primes.append(number)
 
-    print(*primes)  
-    123
-    
+    print(*primes)
